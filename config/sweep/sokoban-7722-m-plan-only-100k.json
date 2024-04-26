@@ -1,0 +1,19 @@
+[
+    {
+        "encoder": "enc-m-s",
+        "decoder": "dec-m-s",
+        "plan_only": true,
+        "batch_size": 8,
+        "train_steps": 80000,
+        "log_interval": 1000,
+        "eval_interval": 5000,
+        "lr": 5e-05,
+        "lr_schedule": "cosine",
+        "train_name": "sokoban.7-by-7-walls-2-boxes-2.with-box-40k",
+        "test_name": "sokoban.7-by-7-walls-2-boxes-2.with-box-40k",
+        "min_reasoning_len": 0,
+        "max_reasoning_len": 10000,
+        "num_train_sequences": 100000,
+        "num_test_sequences": 1000
+    }
+]

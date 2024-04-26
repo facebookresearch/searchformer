@@ -1,0 +1,74 @@
+[
+    {
+        "action": "create",
+        "state": {"x": 0, "y": 0}, "heuristic": 2, "cost_from_start": 0
+    },
+    {
+        "action": "close",
+        "state": {"x": 0, "y": 0}, "heuristic": 2, "cost_from_start": 0
+    },
+    {
+        "action": "create",
+        "state": {"x": 1, "y": 0}, "heuristic": 3, "cost_from_start": 1
+    },
+    {
+        "action": "close",
+        "state": {"x": 1, "y": 0}, "heuristic": 3, "cost_from_start": 1
+    },
+    {
+        "action": "create",
+        "state": {"x": 1, "y": 1}, "heuristic": 2, "cost_from_start": 2
+    },
+    {
+        "action": "create",
+        "state": {"x": 2, "y": 0}, "heuristic": 4, "cost_from_start": 2
+    },
+    {
+        "action": "close",
+        "state": {"x": 1, "y": 1}, "heuristic": 2, "cost_from_start": 2
+    },
+    {
+        "action": "create",
+        "state": {"x": 1, "y": 2}, "heuristic": 1, "cost_from_start": 3
+    },
+    {
+        "action": "create",
+        "state": {"x": 2, "y": 1}, "heuristic": 3, "cost_from_start": 3
+    },
+    {
+        "action": "close",
+        "state": {"x": 1, "y": 2}, "heuristic": 1, "cost_from_start": 3
+    },
+    {
+        "action": "create",
+        "state": {"x": 0, "y": 2}, "heuristic": 0, "cost_from_start": 4
+    },
+    {
+        "action": "create",
+        "state": {"x": 2, "y": 2}, "heuristic": 2, "cost_from_start": 4
+    },
+    {
+        "action": "close",
+        "state": {"x": 0, "y": 2}, "heuristic": 0, "cost_from_start": 4
+    },
+    {
+        "action": "plan",
+        "state": {"x": 0, "y": 0}, "heuristic": 2, "cost_from_start": 0
+    },
+    {
+        "action": "plan",
+        "state": {"x": 1, "y": 0}, "heuristic": 3, "cost_from_start": 1
+    },
+    {
+        "action": "plan",
+        "state": {"x": 1, "y": 1}, "heuristic": 2, "cost_from_start": 2
+    },
+    {
+        "action": "plan",
+        "state": {"x": 1, "y": 2}, "heuristic": 1, "cost_from_start": 3
+    },
+    {
+        "action": "plan",
+        "state": {"x": 0, "y": 2}, "heuristic": 0, "cost_from_start": 4
+    }
+]

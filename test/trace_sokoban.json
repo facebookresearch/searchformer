@@ -1,0 +1,38 @@
+[
+    {
+        "action": "create",
+        "state": "#####-#@$.#-#####",
+        "cost_from_start": 0,
+        "heuristic": 1
+    },
+    {
+        "action": "close",
+        "state": "#####-#@$.#-#####",
+        "cost_from_start": 0,
+        "heuristic": 1
+    },
+    {
+        "action": "create",
+        "state": "#####-# @*#-#####",
+        "cost_from_start": 1,
+        "heuristic": 0
+    },
+    {
+        "action": "close",
+        "state": "#####-# @*#-#####",
+        "cost_from_start": 1,
+        "heuristic": 0
+    },
+    {
+        "action": "plan",
+        "state": "#####-#@$.#-#####",
+        "cost_from_start": 0,
+        "heuristic": 1
+    },
+    {
+        "action": "plan",
+        "state": "#####-# @*#-#####",
+        "cost_from_start": 1,
+        "heuristic": 0
+    }
+]

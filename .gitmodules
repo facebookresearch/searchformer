@@ -1,0 +1,3 @@
+[submodule "sokoban"]
+	path = sokoban
+	url = https://github.com/morenod/sokoban.git
