@@ -2,7 +2,7 @@
 
 Official code base for the paper titled [_Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping_](https://arxiv.org/abs/2402.14083).
 
-This repository contians code for accessing the generated datasets and trained models, re-producing the figures of the main paper, and the code used for running the presented experiments.
+This repository contains code for accessing the generated datasets and trained models, re-producing the figures of the main paper, and the code used for running the presented experiments.
 
 ## Overview
 
