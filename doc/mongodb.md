@@ -12,7 +12,7 @@ The following table provides an overview of all datasets that can be imported wi
 | [searchformer.gz           ](https://dl.fbaipublicfiles.com/searchformer/tokenSeqDB/searchformer.gz           ) | 8.6GB | Searchformer token training data                       |
 | [searchformer.vocabulary.gz](https://dl.fbaipublicfiles.com/searchformer/tokenSeqDB/searchformer.vocabulary.gz) | 1.9MB | Searchformer token meta data                           |
 | [trainDB.gz                ](https://dl.fbaipublicfiles.com/searchformer/trainDB.gz                           ) | 66MB  | Training logs                                          |
-| [rolloutDB.gz              ](https://dl.fbaipublicfiles.com/searchformer/rolloutDB.gz                         ) | 66MB  | Response sequences on test tasks                       |
+| [rolloutDB.gz              ](https://dl.fbaipublicfiles.com/searchformer/rolloutDB.gz                         ) | 6.7GB  | Response sequences on test tasks                       |
 | [sokobanAStarRefDataDB.gz  ](https://dl.fbaipublicfiles.com/searchformer/sokobanAStarRefDataDB.gz             ) | 166MB | A* reference dataset used for Searchformer comparisons |
 
 The large files linked above can be downloaded with `curl` over a lossy or unstable connection. 
